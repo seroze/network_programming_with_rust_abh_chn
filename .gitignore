@@ -1,2 +1,3 @@
 # Ignore everything in target
-hello-rust/target/* 
+hello-rust/target/*
+chapter*/*/target/*
